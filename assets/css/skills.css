@@ -1,7 +1,7 @@
 @font-face{
     font-family: 'Poppins';
-    src: url(../fonts/Poppins/Poppins-Light.ttf),
-        url(../fonts/Poppins/Poppins-ExtraLight.ttf);
+    src: url(../fonts/poppins/Poppins-Light.ttf),
+        url(../fonts/poppins/Poppins-ExtraLight.ttf);
 }
 
 * {
